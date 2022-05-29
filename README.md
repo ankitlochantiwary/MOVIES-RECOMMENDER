@@ -10,3 +10,12 @@ A Web Base user-item Movie Recommendation Engine using Collaborative Filtering B
 
 
 <img width="1280" alt="Screenshot 2022-05-29 at 12 53 45 PM" src="https://user-images.githubusercontent.com/106427890/170857097-d4f70013-d868-49d5-b739-f2381c99ed76.png">
+
+
+## TECHNOLOGIES USED:
+
+#TO MAKE WEBSITE I HAVE USED STREAMLIT LIBRARY IN PYTHON. YOU CAN ALSO YOU FLASK
+
+## MACHINE LEARNING LIBRARY In Python3
+
+#NUMPY, PANDAS, PICKLES, REQUESTS
