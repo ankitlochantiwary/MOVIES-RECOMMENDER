@@ -14,20 +14,20 @@ A Web Base user-item Movie Recommendation Engine using Collaborative Filtering B
 ## FLOW OF PROJECT:
 
 
-FIRSTLY I HAVE TAKE MOVIES DATASET FROM TMDB DATABASE
+Firstly I have taken movies dataset from TMDB DATABASE
 
 LINK : https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 
-THEN, THE PREPROSSING OF DATA WAS DONE IN JUPYTER NOTEBOOK.
+Then, the preprocessing of data was done in JUPYTER NOTEBOOK.
 
-AFTER THAT WE BULID THE MODEL AND MADE WEBSITE USING STREAMLIT LIBRARY IN PYCHARM.
+After that we bulid the model and made website(local host) using STREAMLIT LIBRARY in PYCHARM(python IDE).
 
 
 ## TECHNOLOGIES USED:
 
 
-TO MAKE WEBSITE I HAVE USED STREAMLIT LIBRARY IN PYTHON. YOU CAN ALSO YOU FLASK.
+To make website I have used STREAMLIT library IN PYTHON. You can also use FLASK.
 
 ## MACHINE LEARNING LIBRARY In Python3
 
