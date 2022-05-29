@@ -43,4 +43,6 @@ Just go and download the file.
 
 In the file their is a .zip file named movie-recommendation-sytem, unzip that and run it on any python supported IDE.
 
+You can also try implementing jupyter files in Jupyter notebook. It's always better to explore all the project yourself.
+
 NOTE : You will have to download libraries like numpy, pandas etc.. If you haven't yet!
