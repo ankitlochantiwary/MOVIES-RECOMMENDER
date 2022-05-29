@@ -33,3 +33,13 @@ TO MAKE WEBSITE I HAVE USED STREAMLIT LIBRARY IN PYTHON. YOU CAN ALSO YOU FLASK.
 
 
 NUMPY, PANDAS, PICKLES, REQUESTS.
+
+
+## How to extrat the code to your local computer:
+
+
+Just go and download the file.
+
+
+In the file their is a .zip file named movie-recommendation-sytem, unzip that and run it on any python supported IDE.
+NOTE : You will have to download libraries like numpy, pandas etc.. If you haven't yet!
