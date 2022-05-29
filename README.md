@@ -34,7 +34,7 @@ To make website I have used STREAMLIT library IN PYTHON. You can also use FLASK.
 ## MACHINE LEARNING LIBRARY In Python3
 
 
-NUMPY, PANDAS, PICKLES, REQUESTS.
+Numpy, Pandas, Pickles, Requests.
 
 
 ## How to extrat the code to your local computer:
