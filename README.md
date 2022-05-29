@@ -41,8 +41,11 @@ NUMPY, PANDAS, PICKLES, REQUESTS.
 Just go and download the file.
 
 
+<img width="600" alt="Screenshot 2022-05-29 at 1 15 34 PM" src="https://user-images.githubusercontent.com/106427890/170857934-28c3f676-cbaf-4b18-a8e7-2767a8cdbdc7.png">
+
+
 In the file their is a .zip file named movie-recommendation-sytem, unzip that and run it on any python supported IDE.
 
-You can also try implementing jupyter files in Jupyter notebook. It's always better to explore all the project yourself.
+You can also try implementing jupyter files in Jupyter notebook. It's always better to explore the project yourself.
 
 NOTE : You will have to download libraries like numpy, pandas etc.. If you haven't yet!
