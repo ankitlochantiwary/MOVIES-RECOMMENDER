@@ -1,6 +1,8 @@
 # MOVIES RECOMMENDER
  
-A Web Base user-item Movie Recommendation Engine using Collaborative Filtering By matrix factorizations algorithm and The recommendation based on the underlying idea that is if two persons both liked certian common movies,then the movies that one person has liked that the other person has not yet watched can be recommended to him.
+It's a Web Base Movie Recommendation Engine which is using Collaborative Filtering By matrix factorizations algorithm to recommend closest match. 
+
+The recommendation is based on the underlying idea that is if two persons both liked a common genre of movies, then this will recommend movies that one person has liked but other one hasn't seen it yet. 
 
 
 ## SCREENSHOTS:
