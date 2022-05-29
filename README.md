@@ -48,4 +48,4 @@ In the file their is a .zip file named movie-recommendation-sytem, unzip that an
 
 You can also try implementing jupyter files in Jupyter notebook. It's always better to explore the project yourself.
 
-NOTE : You will have to download libraries like numpy, pandas etc.. If you haven't yet!
+NOTE : You will have to download libraries like numpy, pandas, streamlit etc.. If you haven't already!
